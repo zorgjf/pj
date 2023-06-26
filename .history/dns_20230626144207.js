@@ -1,6 +1,4 @@
-dnswl = 1231111
-zzz = 11111111
-
-asdsad = '11doaldzzziazzzzzzzzzzzzzzzz'
-dk='gkwlazzzkzzzzzzzzzzzzzzzzz'
-
+dnswl = 123
+zzz = 111
+asdsad = 'doaldia'
+dk='gkwlak'
