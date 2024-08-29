@@ -27,3 +27,12 @@ satisfiesds
 asdsdas
 debuggerasd
 SVGDefsElementsd
+SVGDefsElementsad
+asdasd
+asdas
+debuggerasdd
+d
+decodeURId
+decodeURIdd
+d
+decodeURIddd
