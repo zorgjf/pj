@@ -19,3 +19,11 @@ a
 SharedArrayBufferasd
 adf
 satisfiesf
+MediaStreamAudioDestinationNodeasda
+debuggerd
+
+satisfiesds
+
+asdsdas
+debuggerasd
+SVGDefsElementsd
